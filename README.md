@@ -4,9 +4,9 @@
 
 ## Apa yang kita lakukan di sini?
 
-- Untuk mendukung kursus ini, kami perlu sering memperbarui konten kursus agar tetap terkini dengan layanan Microsoft yang digunakan dalam kursus. Kami menerbitkan instruksi lab dan file lab di GitHub untuk memungkinkan kontribusi terbuka antara penulis kursus dan MCT (Pelatih Bersertifikat Microsoft) untuk menjaga agar konten tetap terkini dengan perubahan produk.
+- Untuk mendukung kursus ini, kami perlu sering memperbarui konten kursus agar tetap terkini dengan layanan Microsoft yang digunakan dalam kursus. Kami menerbitkan instruksi lab dan file lab di GitHub untuk memungkinkan kontribusi terbuka antara pembuat kursus dan MCT (Microsoft Certified Trainer) agar konten tetap terbarui dengan perubahan pada produk.
 
-- Kami berharap hal ini akan menghadirkan semangat kerja sama pada lab ini, yang belum pernah kita rasakan sebelumnya - ketika layanan Microsoft seperti Azure atau Microsoft 365 mengalami perubahan dan Anda mengetahuinya terlebih dahulu pada saat pengiriman langsung. Jadi, lanjutkan dan lakukan penyempurnaan langsung di sumber lab. Bantu sesama MCTs.
+- Kami berharap ini akan membawa rasa kolaborasi ke lab seperti yang belum pernah kita alami sebelumnya - ketika layanan Microsoft seperti Azure atau Microsoft 365 berubah dan Anda menemukannya pertama kali selama penyajian langsung, silakan buat peningkatan langsung di sumber lab. Bantu sesama MCTs.
 
 ## Bagaimana cara menggunakan repositori ini??
 
@@ -14,14 +14,14 @@
 
 - File-file di GitHub ini dirancang untuk digunakan di lab kursus, menggunakan lingkungan lab yang dihosting.
 
-- Pada setiap penyampaian, sebaiknya pelatih memeriksa GitHub tentang setiap perubahan yang mungkin telah dilakukan guna mendukung layanan cloud Microsoft terbaru, dan mendapatkan file terbaru untuk penyampaian.
+- Disarankan agar pada setiap penyampaian, pelatih memeriksa GitHub untuk mengetahui adanya perubahan yang mungkin telah dilakukan guna mendukung layanan Microsoft cloud terbaru, lalu dapatkan file terbaru untuk penyampaiannya.
 
 ## Bagaimana dengan perubahan pada buku pegangan siswa?
 
-- Kami akan meninjau buku pedoman siswa setiap tiga bulan dan memperbarui melalui saluran rilis MOC (Kurikulum Resmi Microsoft) normal sesuai kebutuhan.
+- Kami akan meninjau buku pegangan siswa setiap tiga bulan dan memperbarui melalui saluran rilis MOC (Microsoft Official Curriculum) normal sesuai kebutuhan.
 
 ## Bagaimana cara berkontribusi?
 
-- Setiap MCT (Pelatih Bersertifikat Microsoft) dapat mengirimkan permintaan tarik ke kode atau konten di repositori GitHub. Microsoft dan penulis kursus akan melakukan triase dan menyertakan perubahan konten dan kode lab sesuai kebutuhan.
+- Setiap MCT (Microsoft Certified Trainer) dapat mengirimkan permintaan penarikan untuk kode atau konten di repositori GitHub. Microsoft dan penulis kursus akan melakukan triase dan menyertakan perubahan konten dan kode lab sesuai kebutuhan.
 
-- Anda dapat mengirimkan bug, perubahan, peningkatan, dan ide. Menemukan fitur Azure atau Microsoft 365 baru sebelum kami? Kirimkan demo baru!
+- Anda dapat mengirimkan bug, perubahan, peningkatan, dan ide. Menemukan fitur Azure atau Microsoft 365 yang baru sebelum kami? Kirimkan demo baru!
